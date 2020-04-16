@@ -1,14 +1,12 @@
 Buen Dia
 Ayer :
 >doc Responde:
->web service validar al registrarse si es o no asociado a ioscor.
+> web service validar al registrarse si es o no asociado a ioscor, hoy la termino.
 >Viaticos:
--Al hacer clic en el logo desde cualquier parte del sistema se regresa a la home.
--Al hacer clic en el botón salir desloguea al usuario de la app.
+-Mobile - Rendición de gastos - Evaluación de terreno.
 
 Hoy:
 >doc Responde:
-- web service validar al registrarse si es o no asociado a ioscor, hoy la termino.
 - Agrego la validacion en el perfil del paciente, en caso, de que quiera cambiar su obra social a ioscor.
 -despues voy a validar que el paciente antes de pagar se debe conectar con el web service de ioscor enviando el numero de consulta
 >Viaticos: 
