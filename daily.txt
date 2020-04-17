@@ -1,13 +1,12 @@
 Buen Dia
 Ayer :
 >doc Responde:
-> web service validar al registrarse si es o no asociado a ioscor, hoy la termino.
+- Agrego la validacion en el perfil del paciente, en caso, de que quiera cambiar su obra social a ioscor.
 >Viaticos:
 -Mobile - Rendición de gastos - Evaluación de terreno.
 
 Hoy:
 >doc Responde:
-- Agrego la validacion en el perfil del paciente, en caso, de que quiera cambiar su obra social a ioscor.
 -despues voy a validar que el paciente antes de pagar se debe conectar con el web service de ioscor enviando el numero de consulta
 >Viaticos: 
 -Mobile - Rendición de gastos - Evaluación de terreno.
@@ -15,3 +14,16 @@ Hoy:
 Continuo con viaticos hasta el medio dia despues sigo con las cards de doc responde.
 
 No tengo bloqueos.
+
+Good Morning:
+Yesterday:
+> Doc Responde Project:
+- I am worked on validating wheter pacient belong to ioscor or not .
+>Viaticos:
+- I added validation functionalities both Patient Register View and Patient Profile View.
+
+Today:
+> Doc Responde Project:
+- 
+
+no lockers.
