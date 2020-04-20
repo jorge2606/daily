@@ -1,5 +1,5 @@
 Buen Dia
-Ayer :
+Viernes:
 >doc Responde:
 - Agrego la validacion en el perfil del paciente, en caso, de que quiera cambiar su obra social a ioscor.
 >Viaticos:
@@ -13,7 +13,7 @@ Hoy:
 
 Continuo con viaticos hasta el medio dia despues sigo con las cards de doc responde.
 
-No tengo bloqueos.
+Bloqueos: Cuando el paciente se registra el no se guarda la obra social.
 
 Good Morning:
 Yesterday:
