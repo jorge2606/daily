@@ -1,5 +1,5 @@
 Buen Dia
-Viernes:
+ayer:
 >doc Responde:
 - Agrego la validacion en el perfil del paciente, en caso, de que quiera cambiar su obra social a ioscor.
 >Viaticos:
@@ -7,13 +7,13 @@ Viernes:
 
 Hoy:
 >doc Responde:
--despues voy a validar que el paciente antes de pagar se debe conectar con el web service de ioscor enviando el numero de consulta
+- Agregar cronometro para ambas partes (medicos y pacientes) mientras están en el chat que puedan ver el tiempo transcurrido de consulta
 >Viaticos: 
--Mobile - Rendición de gastos - Evaluación de terreno.
+-Mobile - Rendición de gastos - Visita a sucursal.
 
 Continuo con viaticos hasta el medio dia despues sigo con las cards de doc responde.
 
-Bloqueos: Cuando el paciente se registra el no se guarda la obra social.
+No tengo bloqueos.
 
 Good Morning:
 Yesterday:
