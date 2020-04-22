@@ -1,13 +1,13 @@
 Buen Dia
 ayer:
 >doc Responde:
-- Agrego la validacion en el perfil del paciente, en caso, de que quiera cambiar su obra social a ioscor.
+-Agregar cronometro para ambas partes (medicos y pacientes) mientras están en el chat que puedan ver el tiempo transcurrido de consulta.
 >Viaticos:
 -Mobile - Rendición de gastos - Evaluación de terreno.
 
 Hoy:
 >doc Responde:
-- Agregar cronometro para ambas partes (medicos y pacientes) mientras están en el chat que puedan ver el tiempo transcurrido de consulta
+>Guardar todas las consultas que se realicen entre usuario ioscor y médicos.
 >Viaticos: 
 -Mobile - Rendición de gastos - Visita a sucursal.
 
