@@ -1,7 +1,7 @@
 Buen Dia
 ayer:
 >doc Responde:
--Agregar cronometro para ambas partes (medicos y pacientes) mientras están en el chat que puedan ver el tiempo transcurrido de consulta.
+-Agregar funcionalidad donde el admin elija que me medico atiende una determinada obras social, luego mostrarlo en la grilla de medicos.
 >Viaticos:
 -Mobile - Rendición de gastos - Evaluación de terreno.
 
@@ -12,9 +12,6 @@ Hoy:
 -Mobile - Rendición de gastos - Visita a sucursal.
 
 Continuo con viaticos hasta el medio dia despues sigo con las cards de doc responde.
-
-No tengo bloqueos.
-
 Good Morning:
 Yesterday:
 > Doc Responde Project:
