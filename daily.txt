@@ -1,13 +1,13 @@
 Buen Dia
-ayer:
+Viernes:
 >doc Responde:
--Agregar funcionalidad donde el admin elija que me medico atiende una determinada obras social, luego mostrarlo en la grilla de medicos.
+>Guardar todas las consultas que se realicen entre usuario ioscor y médicos.
 >Viaticos:
 -Mobile - Rendición de gastos - Evaluación de terreno.
 
 Hoy:
 >doc Responde:
->Guardar todas las consultas que se realicen entre usuario ioscor y médicos.
+> Que el admin seleccione el tipo de obra social que puede atender el medico.
 >Viaticos: 
 -Mobile - Rendición de gastos - Visita a sucursal.
 
