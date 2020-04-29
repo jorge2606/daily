@@ -1,14 +1,15 @@
 Buen Dia
 Ayer:
 >doc Responde:
-> Que el admin seleccione el tipo de obra social que puede atender el medico.
+> Mostrar un pop up cuando se actualizen los terminos y condiciones.
 >Viaticos:
--Mobile - Rendición de gastos - Evaluación de terreno.
+-Arreglar algunos errores en el formulario de evaluacion de terreno
 
 Hoy:
 >doc Responde:
->Mostrar un pop up cuando se actualizen los terminos y condiciones.
+> Mostrar en el pop-up la url del termino y condiciones y el checkbox, y actualizar en la base de datos la relacion entre usuario y terminos y condiciones.
 >Viaticos: 
--Arreglar algunos errores en el formulario de evaluacion de terreno
+- Hacer el campo importe campo obligatorio.
+-cuando el usuario cierre sesión que le pida nuevamente las credenciales.
 
 Continuo con viaticos hasta el medio dia despues sigo con las cards de doc responde.
