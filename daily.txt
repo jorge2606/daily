@@ -1,15 +1,15 @@
-Buen Dia
+Buen Día
 Ayer:
 >doc Responde:
-> Mostrar un pop up cuando se actualizen los terminos y condiciones.
->Viaticos:
--Arreglar algunos errores en el formulario de evaluacion de terreno
+> Mostrar un pop-up cuando se actualicen los términos y condiciones.
+>Viáticos:
+-Arreglar algunos errores en el formulario de evaluación de terreno
 
 Hoy:
 >doc Responde:
-> Mostrar en el pop-up la url del termino y condiciones y el checkbox, y actualizar en la base de datos la relacion entre usuario y terminos y condiciones.
->Viaticos: 
+> Mostrar en el pop-up la url del termino y condiciones y el checkbox, y actualizar en la base de datos la relación entre usuario y términos y condiciones.
+>Viáticos: 
 - Hacer el campo importe campo obligatorio.
 -cuando el usuario cierre sesión que le pida nuevamente las credenciales.
 
-Continuo con viaticos hasta el medio dia despues sigo con las cards de doc responde.
+Continuo con viáticos hasta el mediodía después sigo con las cards de doc responde.
