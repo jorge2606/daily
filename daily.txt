@@ -1,5 +1,7 @@
 Buen Día
-Ayer:
+
+Jueves:
+
 >doc Responde:
 > Mostrar en el pop-up la url del termino y condiciones y el checkbox, y actualizar en la base de datos la relación entre usuario y términos y condiciones.
 >Viáticos:
@@ -7,8 +9,9 @@ Ayer:
 -cuando el usuario cierre sesión que le pida nuevamente las credenciales.
 
 Hoy:
+
 >doc Responde:
-> Mostrar en el pop-up la url del termino y condiciones y el checkbox, y actualizar en la base de datos la relación entre usuario y términos y condiciones.
+>Guardar todas las consultas que se realicen entre usuario ioscor y médicos.
 >Viáticos: 
 -cuando el usuario cierre sesión que le pida nuevamente las credenciales.
 
