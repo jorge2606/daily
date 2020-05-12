@@ -1,18 +1,25 @@
 Buen Día
 
-Jueves:
+Viernes:
 
 >doc Responde:
-> Mostrar en el pop-up la url del termino y condiciones y el checkbox, y actualizar en la base de datos la relación entre usuario y términos y condiciones.
+>Agregar filtros.
+>testear que se guarden las consultas entre usuario ioscor y medico.
 >Viáticos:
-- Hacer el campo importe campo obligatorio.
--cuando el usuario cierre sesión que le pida nuevamente las credenciales.
+-Conectarme a la api.
+- Mobile - Rendición de gastos - Reunión mensual
+
 
 Hoy:
 
 >doc Responde:
->Guardar todas las consultas que se realicen entre usuario ioscor y médicos.
+> mejorar la ui de filtrar medicos.
+
 >Viáticos: 
--cuando el usuario cierre sesión que le pida nuevamente las credenciales.
+-Todas las vistas funcionan, incluso "rendicion de gastos - otros", en cambio, rendicion mensual no funciona pero deberia porque es similar a los otros formularios que ya funcionan.
+
+Bloqueos: 
+- El widget de filtrar medicos me tira error por el tamaño dentro de la vista.
 
 Continuo con viáticos hasta el mediodía después sigo con las cards de doc responde.
+
