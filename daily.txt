@@ -1,7 +1,5 @@
 Buen Día
-
-Viernes:
-
+Ayer:
 >doc Responde:
 >Agregar filtros.
 >testear que se guarden las consultas entre usuario ioscor y medico.
@@ -9,17 +7,16 @@ Viernes:
 -Conectarme a la api.
 - Mobile - Rendición de gastos - Reunión mensual
 
-
 Hoy:
 
 >doc Responde:
-> mejorar la ui de filtrar medicos.
+> voy seguir haciendo el widget filtros y de paso también voy a testear el merge que hicimos de la rama development con ioscor
 
 >Viáticos: 
--Todas las vistas funcionan, incluso "rendicion de gastos - otros", en cambio, rendicion mensual no funciona pero deberia porque es similar a los otros formularios que ya funcionan.
+-hoy voy a fixear todos lo bugs reportados por Euge.
 
 Bloqueos: 
-- El widget de filtrar medicos me tira error por el tamaño dentro de la vista.
+- El widget de filtrar médicos me tira error por el tamaño dentro de la vista.
 
 Continuo con viáticos hasta el mediodía después sigo con las cards de doc responde.
 
