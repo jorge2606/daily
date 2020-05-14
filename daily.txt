@@ -1,8 +1,7 @@
 Buen Día
 Ayer:
 >doc Responde:
->Agregar filtros.
->testear que se guarden las consultas entre usuario ioscor y medico.
+>arreglando la logica de pago con ioscor desde el lado del cliente.
 >Viáticos:
 -Conectarme a la api.
 - Mobile - Rendición de gastos - Reunión mensual
@@ -10,6 +9,7 @@ Ayer:
 Hoy:
 
 >doc Responde:
+> mergear los cambios de ivan
 > voy seguir haciendo el widget filtros y de paso también voy a testear el merge que hicimos de la rama development con ioscor
 
 >Viáticos: 
