@@ -1,9 +1,9 @@
 Buen Día
 Ayer:
->Viaticos:
+>Viáticos:
 - Validar campo importe en la vista "otros gastos".
 - Cambiar campo observaciones de requerido a opcional  en la vista "otros gastos".
-- Testear agregar imagen en la vista  en la vista "otros gastos". 
+- agregar imagen en la vista  en la vista "otros gastos". 
 
 Hoy:
 
