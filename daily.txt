@@ -1,22 +1,13 @@
 Buen Día
 Ayer:
->doc Responde:
->arreglando la logica de pago con ioscor desde el lado del cliente.
->Viáticos:
--Conectarme a la api.
-- Mobile - Rendición de gastos - Reunión mensual
+>Viaticos:
+- Validar campo importe en la vista "otros gastos".
+- Cambiar campo observaciones de requerido a opcional  en la vista "otros gastos".
+- Testear agregar imagen en la vista  en la vista "otros gastos". 
 
 Hoy:
 
->doc Responde:
-> mergear los cambios de ivan
-> voy seguir haciendo el widget filtros y de paso también voy a testear el merge que hicimos de la rama development con ioscor
-
 >Viáticos: 
--hoy voy a fixear todos lo bugs reportados por Euge.
-
-Bloqueos: 
-- El widget de filtrar médicos me tira error por el tamaño dentro de la vista.
-
-Continuo con viáticos hasta el mediodía después sigo con las cards de doc responde.
+- Agregar campos a la vista "ver Formularios".
+- Agregar funcionalidades a la vista de "formularios pendientes". 
 
