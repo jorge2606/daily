@@ -1,13 +1,22 @@
 Buen Día
-Ayer:
+
+Viernes:
 >Viáticos:
-- Validar campo importe en la vista "otros gastos".
-- Cambiar campo observaciones de requerido a opcional  en la vista "otros gastos".
-- agregar imagen en la vista  en la vista "otros gastos". 
+Estaba arreglando estos bugs:
+- cargue el formulario off line de visita de cobranza y quedo en loading el home no me carga nada.(intente reproducir el error guardando sin conexión y nada).
+- evaluación cargue los datos taxi, importe y el archivo adjunto y no me guarda y encima me borra la selección que hice de vt arriba el numero de vt que puse se borra.(ya esta)
+- lo mismo me pasa en otras reuniones.(no tiene campo vt, pero según lo que vi no se borraban los campos)
+- reunión mensual no me deja seleccionar transporte.(ya esta)
+- lo mismo me pasa en viáticos en capacitación. .(ya esta)
+- lo mismo en visita sucursal.(ya esta)
+- otros gastos también pasa lo mismo.
 
 Hoy:
 
 >Viáticos: 
-- Agregar campos a la vista "ver Formularios".
-- Agregar funcionalidades a la vista de "formularios pendientes". 
+- Marcar los campos obligatorios que me falta cargar de todos los formularios.
+- los botones son guardar no finalizar.
+- "ver formularios" ya tengo internet y no me sincroniza, no envía los formularios pendientes de envío.
+
+No tengo bloqueos.
 
