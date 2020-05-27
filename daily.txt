@@ -2,23 +2,63 @@ Buen Día
 
 Ayer:
 >Viáticos:
-- Evaluación de terreno: en el primer campo hay que sacar o dni, solo debe decir N VT. (ya esta).
-- Evaluación de terreno: no me guarda si el transporte es auto. solo si agrego si fue exitosa o no la visita ahí me guarda. (ya esta)
-- Evaluación de terreno: no me guarda si es taxi colocando solo los campos obligatorios (importe y adjunte imagen no mas y no guarda) si agrego si fue la visita exitosa ahi me guarda (ya esta)
-- Visita de campaña: DNI puedo colocar 9 dígitos. debe permitir solo 7 u 8 dígitos (ya esta)
-- Formulario : me muestra en los dos como que envió pero no tengo Internet todavía
-- si no tiene internet cuando aprieta actualizar vts le debe decir que no tiene Internet que intente mas tarde y en ver formularios.
-- Agregar spinner a cada vista, cuando se sincronizan los formularios offline.
-- conectar con las apis que faltan (transporte, Gastos,Visita exitosa, motivo, personas), algunas apis todavía no están finalizadas.
+- Guardar formularios en la api.
+- integrar la vista otros gastos con la api.
 
 Hoy:
 
 >Viáticos: 
-- En transporte me aparece peaje y estacionamiento.(ya esta)
-- Otros gastos no veo el formulario (ya esta)
-- Actualizar vts el mensaje dice no hay conexion a internet, inten. Debería entrar todo el mensaje(ya esta)
-- En ver formulario falta el boton de actualizar.(ya esta)
-- En ver formulario, cuando tengo internet ya no veo mas en formularios pendientes pero deberia ver en formularios enviados y no aparecen. (ya estan)
+- Hoy finalizamos con la integracion.
 
-No tengo bloqueos.
+Bloqueos: Todos los formularios se guardan pero la condicion es que el sourceId debe ser siempre 0.
+
+
+
+flutter pub run build_runner build
+  final int id;
+  final int reasonId;
+  final int conceptId;
+  final DateTime expenseDate;
+  final DateTime presentationDate;
+  final int amount;
+  final String description;
+  final String urlFile;
+  final String documentAttached;
+  final int segmentId;
+  final int sourceId;
+  final String googleURL;
+  final int technicalVisitId;
+  final int mobilityAmount;
+  final String visitResult;
+  final String term;
+  final String dni;
+  final String device;
+  final String requestNumber;
+  final String email;
+  final String latitude;
+  final String longitude;
+
+  EvaluationSaveFormModel(
+      {this.id,
+      this.reasonId,
+      this.conceptId,
+      this.expenseDate,
+      this.presentationDate,
+      this.amount,
+      this.description,
+      this.urlFile,
+      this.documentAttached,
+      this.segmentId,
+      this.sourceId,
+      this.googleURL,
+      this.technicalVisitId,
+      this.mobilityAmount,
+      this.visitResult,
+      this.term,
+      this.dni,
+      this.device,
+      this.requestNumber,
+      this.email,  
+     this.latitude,
+     this.longitude});
 
