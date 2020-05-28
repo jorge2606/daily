@@ -2,15 +2,14 @@ Buen Día
 
 Ayer:
 >Viáticos:
-- Guardar formularios en la api.
-- integrar la vista otros gastos con la api.
+- Hoy finalizamos con la integración.
 
 Hoy:
 
 >Viáticos: 
-- Hoy finalizamos con la integracion.
+- Pasar a ios la app de viáticos.
 
-Bloqueos: Todos los formularios se guardan pero la condicion es que el sourceId debe ser siempre 0.
+Bloqueos: No tengo bloqueos.
 
 
 
