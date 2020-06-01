@@ -1,13 +1,13 @@
 Buen Día
 
-Ayer:
+Viernes:
 >Viáticos:
-- pasar los últimos cambios a ios y volver a deployar.
+- deployar cambios.
 
 Hoy:
 
 >Viáticos: 
-- Ayer encontré lo que impedía guardar formularios, hoy voy arreglar eso y también adjuntar una imagen con la camara del iphone.
+- voy a deployar los últimos cambios en ios, esperando nuevas tareas.
 
 Bloqueos: No tengo bloqueos.
 
