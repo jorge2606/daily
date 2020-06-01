@@ -2,12 +2,12 @@ Buen Día
 
 Ayer:
 >Viáticos:
-- Hoy finalizamos con la integración.
+- pasar los últimos cambios a ios y volver a deployar.
 
 Hoy:
 
 >Viáticos: 
-- Pasar a ios la app de viáticos.
+- Ayer encontré lo que impedía guardar formularios, hoy voy arreglar eso y también adjuntar una imagen con la camara del iphone.
 
 Bloqueos: No tengo bloqueos.
 
