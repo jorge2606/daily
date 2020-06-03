@@ -1,63 +1,14 @@
 Buen Día
 
-Viernes:
+Ayer:
 >Viáticos:
-- deployar cambios.
+- deployar cambios de ios.
+- Agregando nuevas funcionalidades de reportes en el admin de doc responde.
 
 Hoy:
 
 >Viáticos: 
-- voy a deployar los últimos cambios en ios, esperando nuevas tareas.
+- exportar  los datos a excel.
 
-Bloqueos: No tengo bloqueos.
-
-
-
-flutter pub run build_runner build
-  final int id;
-  final int reasonId;
-  final int conceptId;
-  final DateTime expenseDate;
-  final DateTime presentationDate;
-  final int amount;
-  final String description;
-  final String urlFile;
-  final String documentAttached;
-  final int segmentId;
-  final int sourceId;
-  final String googleURL;
-  final int technicalVisitId;
-  final int mobilityAmount;
-  final String visitResult;
-  final String term;
-  final String dni;
-  final String device;
-  final String requestNumber;
-  final String email;
-  final String latitude;
-  final String longitude;
-
-  EvaluationSaveFormModel(
-      {this.id,
-      this.reasonId,
-      this.conceptId,
-      this.expenseDate,
-      this.presentationDate,
-      this.amount,
-      this.description,
-      this.urlFile,
-      this.documentAttached,
-      this.segmentId,
-      this.sourceId,
-      this.googleURL,
-      this.technicalVisitId,
-      this.mobilityAmount,
-      this.visitResult,
-      this.term,
-      this.dni,
-      this.device,
-      this.requestNumber,
-      this.email,  
-     this.latitude,
-     this.longitude});
+sin bloqueos.
 
