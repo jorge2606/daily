@@ -2,13 +2,13 @@ Buen Día
 
 Ayer:
 >Viáticos:
-- deployar cambios de ios.
-- Agregando nuevas funcionalidades de reportes en el admin de doc responde.
+- exportar  los datos a excel de los turnos.
+-deploy al sitio de test.
 
 Hoy:
 
 >Viáticos: 
-- exportar  los datos a excel.
+- esperando resultados  del test mientras voy testeando localmente.
 
 sin bloqueos.
 
