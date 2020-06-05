@@ -2,13 +2,17 @@ Buen Día
 
 Ayer:
 >Viáticos:
-- exportar  los datos a excel de los turnos.
+- arregle unas cosas de reportes en doc responde.
 -deploy al sitio de test.
 
 Hoy:
 
 >Viáticos: 
-- esperando resultados  del test mientras voy testeando localmente.
+- integrar la app con el refresh token.
+- integrar la ultima api de personas cuando el usuario se queda sin Internet.
+>Doc Responde:
+-arreglar el filtro de turnos.
 
+Comienzo con viáticos hasta el mediodía y después sigo con doc responde
 sin bloqueos.
 
