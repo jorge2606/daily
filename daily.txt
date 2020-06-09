@@ -1,18 +1,12 @@
 Buen Día
-
-Ayer:
+Viernes:
 >Viáticos:
-- arregle unas cosas de reportes en doc responde.
--deploy al sitio de test.
-
+refactorizando el loading de envió de formularios pendientes.
+Deploy a ios.
+Ayudando a Ivan y Facu con sus reportes
 Hoy:
-
->Viáticos: 
-- integrar la app con el refresh token.
-- integrar la ultima api de personas cuando el usuario se queda sin Internet.
->Doc Responde:
--arreglar el filtro de turnos.
-
-Comienzo con viáticos hasta el mediodía y después sigo con doc responde
+-tengo ver si ya están las apis para integrar de crear gastos en viáticos
+-puntuar las tareas de doc responde.
+-deplotar a ios
 sin bloqueos.
 
