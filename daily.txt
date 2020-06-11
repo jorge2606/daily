@@ -3,6 +3,6 @@ Ayer:
 comencé con la card "mostrar alguna distinción en la tarjeta del medico que atiende por ioscor".
 Hoy:
 Continuo con la misma card, agrego el pop-up en 2 vistas  mas y termino.
-Comienzo con una nueva card.
+Comienzo con una nueva car d.
 
-Bloqueos: me faltan los estilos de la web y también tengo mi celular pero mi emulador no anda entonces voy a ver como hago para testear las notificaciones.
+Bloqueos: me faltan los estilos de la web y también tengo mi celular pero mi emulador no anda entonces voy a ver como hago para testear las notificaciones. 
