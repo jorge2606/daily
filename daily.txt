@@ -1,12 +1,8 @@
 Buen Día
-Viernes:
->Viáticos:
-refactorizando el loading de envió de formularios pendientes.
-Deploy a ios.
-Ayudando a Ivan y Facu con sus reportes
+Ayer:
+comencé con la card "mostrar alguna distinción en la tarjeta del medico que atiende por ioscor".
 Hoy:
--tengo ver si ya están las apis para integrar de crear gastos en viáticos
--puntuar las tareas de doc responde.
--deplotar a ios
-sin bloqueos.
+Continuo con la misma card, agrego el pop-up en 2 vistas  mas y termino.
+Comienzo con una nueva card.
 
+Bloqueos: me faltan los estilos de la web y también tengo mi celular pero mi emulador no anda entonces voy a ver como hago para testear las notificaciones.
