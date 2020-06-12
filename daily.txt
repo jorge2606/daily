@@ -1,8 +1,10 @@
 Buen Día
 Ayer:
-comencé con la card "mostrar alguna distinción en la tarjeta del medico que atiende por ioscor".
+- Continuo con la misma card, agrego el pop-up en 2 vistas  mas y termino.
+- Comienzo con una nueva card.
 Hoy:
-Continuo con la misma card, agrego el pop-up en 2 vistas  mas y termino.
-Comienzo con una nueva car d.
+- fiexeando cosas del usurio de aeh y redeployando.
+- Deploy de dos responde a ios
+- Meeting con los miebros de easy_rent
 
-Bloqueos: me faltan los estilos de la web y también tengo mi celular pero mi emulador no anda entonces voy a ver como hago para testear las notificaciones. 
+sin bloqueos. 
